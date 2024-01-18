@@ -15,6 +15,17 @@
 - 有目标检测项目经验
 - 有GUI设计经验
 - 有网页设计经验
+- 有ChatGPT项目经验
+- 有Docker经验
+- 有树莓派、单片机经验
+
+## 👤游客访问
+
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/NLCISBNPlugin/count.svg"  alt="NLCISBNPlugin"/>
+</p>
+
+## ❤ 赞助 Donation
 
 如果你觉得我的项目对你有帮助，请考虑赞助我，以激励我投入更多的时间进行维护与开发。
 

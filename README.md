@@ -22,7 +22,7 @@
 ## 👤游客访问
 
 <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/NLCISBNPlugin/count.svg"  alt="NLCISBNPlugin"/>
+   <img alingn="center" src="https://profile-counter.glitch.me/DoiiarX/count.svg"  alt="DoiiarX"/>
 </p>
 
 ## ❤ 赞助 Donation
